@@ -17,3 +17,8 @@ The script also applies conditional formatting to the 'Quarterly Change' and the
 ## Code Source
 
 The code was developed by me (Liaman Aghayeva) based on instructions and some research for proper syntax. The script is available in the 'Module_2_Challenge_VBA_Code.bas' file.
+
+## Location
+
+https://github.com/laghayeva/VBA-challenge
+git@github.com:laghayeva/VBA-challenge.git
